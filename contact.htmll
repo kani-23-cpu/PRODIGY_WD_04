@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="home.html">HOME</a>
+        <a href="about.html">ABOUT</a>
+        <a href="contact.html">CONTACT</a>
+        <a href="service.html">SERVICE</a>
+        </div>
+    <img src="call.png"  align="left" class="call">
+    <div class="ids"><ul>
+        <li><img src="wp.png" class="wp"><b>Whatsapp</b></li>
+        <li><img src="insta.png" class="ins"><b>Instagram</b></li>
+        <li><img src="fb.png" class="fb"><b>Facebook</b></li>
+        <li><img src="tw.png" class="tw"><b>Twitter</b></li>
+        <li><img src="you.png" class="you"><b>Youtube</b></li>
+    </ul></div>
+     <br><br><br><br><br>
+
+    <p class="a"><b>G</b>ET IN TOUCH!!</p>
+    <p class="b"><i>If you are intrested in working together?Please contact me ^
+    </i> 
+</p>
+<p class="c"><q><b>Thank you for taking the time to visit my portfolio. I look forward to the opportunity to work with you!</b></q></p>
+</body>
+</html>
